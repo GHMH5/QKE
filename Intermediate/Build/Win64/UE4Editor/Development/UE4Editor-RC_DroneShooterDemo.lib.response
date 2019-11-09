@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RC_DroneShooterDemo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\zayd naddy\Documents\RC_DroneShooterDemo\Intermediate\Build\Win64\UE4Editor\Development\RC_DroneShooterDemo\FloatingTarget.cpp.obj"
+"C:\Users\zayd naddy\Documents\RC_DroneShooterDemo\Intermediate\Build\Win64\UE4Editor\Development\RC_DroneShooterDemo\RC_DroneShooterDemo.cpp.obj"
+"C:\Users\zayd naddy\Documents\RC_DroneShooterDemo\Intermediate\Build\Win64\UE4Editor\Development\RC_DroneShooterDemo\RC_DroneShooterDemoGameMode.cpp.obj"
+"C:\Users\zayd naddy\Documents\RC_DroneShooterDemo\Intermediate\Build\Win64\UE4Editor\Development\RC_DroneShooterDemo\FloatingTarget.gen.cpp.obj"
+"C:\Users\zayd naddy\Documents\RC_DroneShooterDemo\Intermediate\Build\Win64\UE4Editor\Development\RC_DroneShooterDemo\RC_DroneShooterDemo.init.gen.cpp.obj"
+"C:\Users\zayd naddy\Documents\RC_DroneShooterDemo\Intermediate\Build\Win64\UE4Editor\Development\RC_DroneShooterDemo\RC_DroneShooterDemoGameMode.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\RC_DroneShooterDemo\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\zayd naddy\Documents\RC_DroneShooterDemo\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RC_DroneShooterDemo.lib"
